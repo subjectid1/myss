@@ -1,3 +1,5 @@
+Failed for no enough permission to run entrypoint.sh on os.
+
 
 origin from mritd/dockerfile/shadowsocks
 
