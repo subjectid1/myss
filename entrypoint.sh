@@ -45,4 +45,4 @@ else
 fi
 
 ss-server -s 0.0.0.0 -p 6443 -m chacha20 -k test123 --fast-open
-kcpserver -t 127.0.0.1:6443 -l :6500 -mode fast2
+kcpserver -t 127.0.0.1:6443 -l :443 -mode fast2

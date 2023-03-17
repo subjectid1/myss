@@ -64,4 +64,4 @@ ADD entrypoint.sh /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
 
-EXPOSE 6500
+EXPOSE 443
